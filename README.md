@@ -10,14 +10,14 @@ Becoming a Software Developer / Engineer, Excel Master, Gamer, Artist
 ⚡ Fun fact: Patiently waiting for the remake of Ocrina of Time
 
 <div align="center"> 
-  <a href="https://nikoledixon.github.io/NikoleDixonPortfolio//" target="_blank">
+  <a href="https://nikoledixon.github.io/NikoleDixonPortfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio Site-588f24?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyBzdHJva2U9IndoaXRlIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGhlaWdodD0iMjAwcHgiIHdpZHRoPSIyMDBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBpZD0iR2xvYmUiPjxwYXRoIGQ9Ik0xNC42NDUsMi40MjhhOC4xLDguMSwwLDAsMC0xLjYxLS4zLDkuMzMyLDkuMzMyLDAsMCwwLTMuNi4yOGwtLjA3LjAyYTkuOTI4LDkuOTI4LDAsMCwwLC4wMSwxOS4xNSw5LjA5MSw5LjA5MSwwLDAsMCwyLjM2LjM0LDEuMjc0LDEuMjc0LDAsMCwwLC4yNy4wMiw5LjY1LDkuNjUsMCwwLDAsMi42My0uMzYsOS45MzEsOS45MzEsMCwwLDAsLjAxLTE5LjE1Wm0tLjI3Ljk2YTguOTQzLDguOTQzLDAsMCwxLDUuODQsNS4xMWgtNC4yNmExMy43NzgsMTMuNzc4LDAsMCwwLTIuNzQtNS4zNUE4LjI1NCw4LjI1NCwwLDAsMSwxNC4zNzUsMy4zODhabS0yLjM3LS4wOWExMi43OCwxMi43OCwwLDAsMSwyLjkxLDUuMkg5LjA3NUExMi41NDUsMTIuNTQ1LDAsMCwxLDEyLjAwNSwzLjNabTMuMTYsNi4yYTEzLjE5MywxMy4xOTMsMCwwLDEsMCw1LjAxSDguODQ1YTEyLjE4NSwxMi4xODUsMCwwLDEtLjI1LTIuNSwxMi4zNTMsMTIuMzUzLDAsMCwxLC4yNS0yLjUxWm0tNS42LTYuMDkuMDctLjAyYTkuMTUyLDkuMTUyLDAsMCwxLDEuMTYtLjIzQTEzLjYxOCwxMy42MTgsMCwwLDAsOC4wNDUsOC41SDMuOEE5LDksMCwwLDEsOS41NjUsMy40MDhabS02LjUsOC42YTguNzEsOC43MSwwLDAsMSwuMzctMi41MWg0LjM5YTEzLjk1LDEzLjk1LDAsMCwwLS4yMywyLjUxLDEzLjc1NywxMy43NTcsMCwwLDAsLjIzLDIuNUgzLjQzNUE4LjU5MSw4LjU5MSwwLDAsMSwzLjA2NSwxMi4wMDhabTYuNTcsOC42MWE4LjksOC45LDAsMCwxLTUuODQtNS4xMWg0LjI0YTEzLjYzMiwxMy42MzIsMCwwLDAsMi43Nyw1LjM1QTguMSw4LjEsMCwwLDEsOS42MzUsMjAuNjE4Wm0tLjU2LTUuMTFoNS44NGExMi42MzgsMTIuNjM4LDAsMCwxLTIuOTEsNS4yMUExMi44NzIsMTIuODcyLDAsMCwxLDkuMDc1LDE1LjUwOFptNS4zLDUuMTFhMTEuNTUxLDExLjU1MSwwLDAsMS0xLjE3LjI0LDEzLjgsMTMuOCwwLDAsMCwyLjc1LTUuMzVoNC4yNkE4LjkyNCw4LjkyNCwwLDAsMSwxNC4zNzUsMjAuNjE4Wm0xLjgtNi4xMWExMy42MTEsMTMuNjExLDAsMCwwLDAtNS4wMWg0LjM5YTguMzc5LDguMzc5LDAsMCwxLC4zNywyLjUxLDguNjg3LDguNjg3LDAsMCwxLS4zNiwyLjVaIj48L3BhdGg+PC9nPjwvc3ZnPg==" target="_blank"/>
   </a>
   <a href="https://www.linkedin.com/in/nikole-dixon/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
   <a href="mailto:njdartwork@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-E94635?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+    <img src="https://img.shields.io/badge/email-E94635?style=for-the-badge&logo=email&logoColor=white" target="_blank"/>
   </a>
 </div>
 
@@ -25,20 +25,20 @@ Becoming a Software Developer / Engineer, Excel Master, Gamer, Artist
 <br/>
 <div align="center">
 <h3>Knowledge</h3>
-  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=css,cs,dotnet" />
   <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github" />
   <img src="https://skillicons.dev/icons?i=html,javascript" />
   <img src="https://skillicons.dev/icons?i=nodejs,python,react" />
   <img src="https://skillicons.dev/icons?i=tailwind,typescript" />
-  <img src="https://skillicons.dev/icons?i=vite" /> 
+  <img src="https://skillicons.dev/icons?i=vite,vscode" /> 
 
 <h3>Working knowledge</h3>
-  <img src="https://skillicons.dev/icons?i=aws,azure,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
   <img src="https://skillicons.dev/icons?i=figma,flutter" />
   <img src="https://skillicons.dev/icons?i=githubactions,java,jest" />
   <img src="https://skillicons.dev/icons?i=md,nextjs" />
   <img src="https://skillicons.dev/icons?i=regex,selenium,svelte" />
-  <img src="https://skillicons.dev/icons?i=vitest,vscode" />
+  <img src="https://skillicons.dev/icons?i=vitest" />
 </div>
 
 <!-- 
