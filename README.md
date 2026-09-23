@@ -17,9 +17,9 @@ I am currently a student with Bellevue College. I am working on a few different 
   <br>
     
 <a href="mailto:njdartwork@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-E94635?style=for-the-badge&labelColor=teal&color=teal&logo=data:image/svg%2Bxml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%20fill='white'%3E%3Cpath%20d='M2%204h20v16H2V4zm2%203v11h16V7l-8%206-8-6zm8%203.5L19.5%207H4.5L12%2010.5z'/%3E%3C/svg%3E&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-E94635?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZD0iTTAgNGEyIDIgMCAwIDEgMi0yaDEyYTIgMiAwIDAgMSAyIDJ2OGEyIDIgMCAwIDEtMiAyaC0xMmEyIDIgMCAwIDEtMi0yVjR6bTIgMXYuMjE3bDcgNC4yIDctNC4yVjVMMTAgOC4wODNsNSAxLjA0N3YtLjM4bC03IDQuMi03LTQuMlY5LjEzM2w1LTEuMDQ3TDIgNS4yMTd6Ii8%2BPC9zdmc%2B&logoColor=white&labelColor=teal&color=teal" />
 </a>
-</div>
+
 
 <h2 align="left"> Languages, Technologies, and Frameworks </h2>
 <div align="left">
