@@ -38,7 +38,7 @@ I am currently a student with Bellevue College. I am working on a few different 
   <img src="https://skillicons.dev/icons?i=githubactions,java,jest" />
   <img src="https://skillicons.dev/icons?i=nextjs" />
   <img src="https://skillicons.dev/icons?i=regex,selenium,svelte" />
-  <img src="https://skillicons.dev/icons?i=vitest, apple" />
+  <img src="https://skillicons.dev/icons?i=vitest,apple" />
 </div>
 
 <!-- 
