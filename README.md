@@ -25,19 +25,20 @@ I am currently a student with Bellevue College. I am working on a few different 
 <div align="left">
 <h3>Knowledge</h3>
   <img src="https://skillicons.dev/icons?i=css,cs,dotnet" />
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,sqlite,git,github" />
   <img src="https://skillicons.dev/icons?i=html,javascript" />
-  <img src="https://skillicons.dev/icons?i=md,nodejs,python,react" />
+  <img src="https://skillicons.dev/icons?i=md,nodejs,npm,pnpm,python,pycharm,react" />
   <img src="https://skillicons.dev/icons?i=tailwind,typescript" />
-  <img src="https://skillicons.dev/icons?i=vite,vscode" /> 
-
+  <img src="https://skillicons.dev/icons?i=vite,vim,vscode,vscodium" /> 
+  <img src="https://skillicons.dev/icons?i=ai,ps,svg,sketchup,mint,ubuntu,raspberrypi,windows,notion" /> 
+    
 <h3>Working knowledge</h3>
   <img src="https://skillicons.dev/icons?i=aws,azure" />
   <img src="https://skillicons.dev/icons?i=figma,flutter" />
   <img src="https://skillicons.dev/icons?i=githubactions,java,jest" />
   <img src="https://skillicons.dev/icons?i=nextjs" />
   <img src="https://skillicons.dev/icons?i=regex,selenium,svelte" />
-  <img src="https://skillicons.dev/icons?i=vitest" />
+  <img src="https://skillicons.dev/icons?i=vitest, apple" />
 </div>
 
 <!-- 
